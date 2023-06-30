@@ -1,1 +1,1 @@
-solution to pascal triangle task
+Pascal's triangle solution

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A script that is to determine pascal's triangle for any number"""
+"""A script that determines pascal's triangle for any number"""
 
 
 def pascal_triangle(n):

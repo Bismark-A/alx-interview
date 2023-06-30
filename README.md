@@ -1,1 +1,1 @@
-alx-interview python project
+alx-interview project - Pascal's teiangle
